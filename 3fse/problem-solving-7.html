@@ -20,42 +20,46 @@
 
 ## Risoluzione
 
-1. Poiché le forze sono costanti, in base alla seconda legge di Newton la slitta compie un moto con accelerazione costante (cioè *uniformemente accelerato*). In un moto uniformemente accelerato valgono le due leggi seguenti:
-\begin{align*}
-\Delta s &= v_0 t  + \frac12 a t^2\\
-\Delta v &= at
-\end{align*}
+1. Poiché le forze sono costanti, in base alla seconda legge di Newton la slitta compie un moto con accelerazione costante
+  (cioè *uniformemente accelerato*). In un moto uniformemente accelerato valgono le due leggi seguenti:
+  \begin{align*}
+    \Delta s &= v_0 t  + \frac12 a t^2\\
+    \Delta v &= at
+  \end{align*}
 Poiché la slitta parte da ferma ($v_0 = 0$), sostituendo il valore $t = \Delta v / a$ nella prima equazione, ricaviamo
 $$
-\Delta s = \frac{\Delta v^2}{2a} \,\rightarrow\, a = \frac{\Delta v^2}{2\Delta s}
+  \Delta s = \frac{\Delta v^2}{2a} \,\rightarrow\, a = \frac{\Delta v^2}{2\Delta s}
 $$
-2. L'accelerazione e (di conseguenza) la forza risultante $\vec{F}$ sono entrambe dirette **orizzontalmente**: scegliendo un sistema di riferimento in cui l'asse $x$ corrisponde alla direzione del moto, abbiamo
-\begin{align*}
-F_x &= F = ma\\
-F_y &= 0
-\end{align*}
+  
+2. L'accelerazione e (di conseguenza) la forza risultante $\vec{F}$ sono entrambe dirette **orizzontalmente**:
+  scegliendo un sistema di riferimento in cui l'asse $x$ corrisponde alla direzione del moto, abbiamo
+  \begin{align*}
+    F_x &= F = ma\\
+    F_y &= 0
+  \end{align*}
+  
 3. Lungo la direzione orizzontale ($x$) abbiamo
-\begin{align*}
-F_x &= P_x + R_x + F_{ax} + T_{x}\\
-&= 0 + 0 - R\mu_d + T \cos \theta\\
-&= -R\mu_d + T \cos \theta
-\end{align*}
+  \begin{align*}
+    F_x &= P_x + R_x + F_{ax} + T_{x}\\
+        &= 0 + 0 - R\mu_d + T \cos \theta\\
+        &= -R\mu_d + T \cos \theta
+  \end{align*}
 Lungo la direzione verticale ($y$) abbiamo invece
-\begin{align*}
-F_y &= P_y + R_y + F_{ay} + T_{y}\\
-&= -mg + R + 0 + T \sin \theta\\
-&= -mg + R + T \sin \theta
-\end{align*}
+  \begin{align*}
+    F_y &= P_y + R_y + F_{ay} + T_{y}\\
+        &= -mg + R + 0 + T \sin \theta\\
+        &= -mg + R + T \sin \theta
+  \end{align*}
 Per quanto visto al punto 2, abbiamo dunque le due equazioni
-\begin{align*}
-F &= -R\mu_d + T \cos \theta\\
-0 &= -mg + R + T \sin \theta
-\end{align*}
+  \begin{align*}
+    F &= -R\mu_d + T \cos \theta\\
+    0 &= -mg + R + T \sin \theta
+  \end{align*}
 Moltiplicando la seconda equazione per $\mu_d$ e sommando con la prima, otteniamo
 $$
-F = T\left( \cos \theta + \mu_d \sin \theta \right) - mg \mu_d
+  F = T\left( \cos \theta + \mu_d \sin \theta \right) - mg \mu_d
 $$
 da cui possiamo finalmente ricavare
-\begin{align*}
-T &= \frac{F + mg \mu_d}{\cos \theta + \mu_d \sin \theta}
-\end{align*}
+  \begin{align*}
+    T &= \frac{F + mg \mu_d}{\cos \theta + \mu_d \sin \theta}
+  \end{align*}
