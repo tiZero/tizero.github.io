@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="it">
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
+<style>
+img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+</style>
+<textarea>
+
+# Problema 10 (p. 118)
+
+Rispetto al disegno di seguito abbiamo
+
++ $m = 0.60$ kg
++ $v_i = v_f = v = 5.4$ m/s
++ $\theta = 65^\circ$
+
+![pic](pics/0310.png)
+
+Il **teorema dell'impulso** ci dice che l'impulso dato dal pavimento
+corrisponde alla variazione di *quantità di moto* $\vec{p}$ della
+palla:
+
+\begin{align*}
+\vec{I} &= \Delta\vec{p}\\
+	&= \vec{p}_f - \vec{p}_i\\
+	&= m (\vec{v}_f - \vec{v}_i)
+\end{align*}
+
+Rispetto al sistema di coordinate $xy$ in figure, le componenti delle due velocità
+$\vec{v}_i$ e $\vec{v}_f$ sono date da
+
+$$
+\vec{v}_i \, \colon \, \left\{\begin{array}{l}
+v_{ix} = v \sin \theta\\
+v_{iy} = -v \cos \theta
+\end{array}\right. \qquad \qquad \vec{v}_f \, \colon \, \left\{\begin{array}{l}
+v_{fx} = v \sin \theta\\
+v_{fy} = v \cos \theta
+\end{array}\right.
+$$
+
+Di conseguenza abbiamo
+\begin{align*}
+I_x &= m \left(v_{fx} - v_{ix} \right) = 0\\
+I_y &= m \left(v_{fy} - v_{fy} \right) = 2mv \cos \theta
+\end{align*}
+
+Poiché $I_x = 0$ e $I_y > 0$, deduciamo che l'impulso del pavimento è diretto
+verticalmente dal basso verso l'alto. La sua intensità è
+$$
+I = 2mv \cos \theta
+$$

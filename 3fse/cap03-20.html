@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
+<style>
+img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+</style>
+<textarea>
+
+# Problema 20 (p. 119)
+
+In riferimento al disegno di seguito abbiamo
+
++ $m = 19$ kg
++ $\theta = 35^\circ$
++ $F = 219$ N
+
+![pic](pics/0320.svg)
+
+Osserviamo che le forze agenti sul tagliaerba sono
+
++ la **reazione vincolare** $\vec{R}$ del suolo
++ il **peso** $\vec{P}$ del tagliaerba stesso
++ la forza $\vec{F}$ del giardiniere
+
+Poiché il tagliaerba si muove lungo il prato, la forza risultante $\vec{S} = \vec{R} + \vec{P} + \vec{F}$
+è **orizzontale**: possiamo scrivere l'equazione
+$$
+S_y = 0
+$$
+
+Poiché
+
+\begin{align*}
+S_y &= R_y + P_y + F_y\\
+    &= R - mg - F \sin \theta
+\end{align*}
+
+l'equazione $S_y = 0$ fornisce la formula risolutiva
+$$
+R = mg + F \sin \theta
+$$
+
+Dalla formula risolutiva è possibile dedurre che se $\theta$ aumenta anche $R$ aumenta,
+fino a raggiungere il valore massimo in corrispondenza di $\theta = 90^\circ$
+(forza del giardiniere verticale).
