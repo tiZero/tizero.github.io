@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="it">
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
+<style>
+img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+</style>
+<textarea>
+
+# Problema 108 (p. 391)
+
+Il coefficiente angolare della retta $AB$ è
+
+$$
+    m = \frac{y_A - y_B}{x_A - x_B} = \frac12
+$$
+
+Essendo parallele alla retta $AB$, le rette tangenti hanno equazione del tipo
+
+$$
+    t \, \colon \, y = \frac12 x + q
+$$
+
+Di conseguenza è sufficiente determinare i valori di $q$.
+
+### Metodo geometrico
+
+1. Facilmente possiamo calcolare il centro e il raggio della circonferenza:
+$$
+    C = (0,3) \qquad r = 3
+$$
+
+2. La distanza tra la retta $t$ e il centro $C$ è
+$$
+    d = \frac{\vert 3 - q \vert}{\sqrt{1 + \frac14}}
+$$
+
+3. Risolviamo l'equazione $d = r$, ovvero
+\begin{align*}
+    \frac{\vert 3 - q \vert}{\sqrt{1 + \frac14}} &= 3\\
+    (3 - q)^2 &= 9\left( 1 + \frac14\right)
+\end{align*}
+Le due soluzioni risultano
+$$
+q_1 = 3 - \frac{3\sqrt{5}}{2} \qquad q_2 = 3 + \frac{3\sqrt{5}}{2}
+$$
+
+### Metodo analitico
+
+1. Consideriamo il sistema
+$$
+\left\{\begin{array}{l}
+  y = \frac12 x + q\\
+  x^2 + y^2 - 6y = 0
+\end{array}\right.
+$$
+
+2. Sostituendo $y$ nella seconda equazione, otteniamo l'**equazione risolvente**
+$$
+\frac54 x^2 + (q-3)x + q(q-6) = 0
+$$
+
+3. Calcoliamo il $\Delta$ dell'equazione risolvente:
+\begin{align*}
+  \Delta &= (q-3)^2 - 5q(q-6)\\
+	 &= -4q^2 + 24 q + 9
+\end{align*}
+Risolvendo l'equazione di secondo grado $\Delta = 0$ arriviamo agli stessi valori $q_1$ e $q_2$ trovati sopra.
