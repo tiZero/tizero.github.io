@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="it">
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
+<style>
+img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+</style>
+<textarea>
+
+# Problema 26 (p. 120)
+
+Indichiamo con $T_1$ e $T_2$ le due tensioni richieste dal problema e con $a$ l'accelerazione dei tre blocchi (poiché le corde sono inestensibili, i tre blocchi hanno tutti la stessa accelerazione).
+
+### Blocco 1
+L'unica forza orizzontale che agisce sul primo blocco è la tensione $T_1$ diretta verso destra. Dunque, la seconda legge di Newton per il blocco 1 è
+
+\begin{equation}\label{eq:1}
+    T_1 = m_1 \cdot a
+\end{equation}
+
+### Blocco 2
+Le forze orizzontali sul secondo blocco sono la tensione $T_1$ (verso sinistra) e la tensione $T_2$ (verso destra). La seconda legge di Newton per il blocco 2 è
+
+\begin{equation}\label{eq:2}
+-T_1 + T_2 = m_2 \cdot a
+\end{equation}
+
+### Blocco 3
+Le forze verticali sul terzo blocco sono la tensione $T_2$ (verso l'alto) e il peso $\vec{P}$ (verso il basso). L'analoga equazione per il blocco 3 è
+
+\begin{equation}\label{eq:3}
+-T_2 + m_3 \cdot g = m_3 \cdot a
+\end{equation}
+
+Osserviamo che le equazioni (\ref{eq:1}), (\ref{eq:2}) e (\ref{eq:3}) formano un sistema di tre equazioni nelle tre incognite $T_1$, $T_2$ e $a$. Risolvendolo otteniamo i valori di $T_1$, $T_2$ e, anche se non richiesto, di $a$. 

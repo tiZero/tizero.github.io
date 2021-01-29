@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
+<style>
+img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+</style>
+<textarea>
+
+# Problema 23 (p. 119)
+
+Nello schema di corpo libero indichiamo con $\vec{F}_1$ e $\vec{F}_2$ le forze esercitate dagli anelli su ciascun braccio dell'atleta.
+
+Sappiamo che
+
++ $m = 67$ kg
++ $\theta = 24^\circ$
++ $F_1 = F_2 = F = 290$ N
+
+![pic03-23](pics/0323.svg)
+
+### Punto a)
+Poiché l'atleta è fermo, in base al **principio di inerzia**, la risultante delle forze agenti è nulla:
+
+$$
+    \vec{F}_1 + \vec{F}_2 + \vec{R} + \vec{P} = 0
+$$
+
+In particolare, la somma delle componenti verticali (lungo l'asse $y$) delle forze coinvolte è zero:
+
+\begin{align*}
+    \vec{F}_{1y} + \vec{F}_{2y} + \vec{R}_y + \vec{P}_y &= 0\\
+    F \sin \theta + F \sin \theta + R - mg &= 0
+\end{align*}
+
+Dall'ultima equazione si ricava la formula risolutiva
+
+$$
+    R = mg - 2F \sin \theta
+$$
+
+### Punto b)
+Se $\theta$ aumenta, allora anche $\sin \theta$ aumenta. Di conseguenza, dalla formula risolutiva ricavata al punto a) si deduce che il valore della reazione vincolare $R$ diminuisce.
