@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="it">
 <script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
-<style>
-img {
-  width: 90%;
-  margin: auto;
-  display: block;
-}
-</style>
 <textarea>
 
 # Problema 25 (p. 106)
@@ -15,20 +8,19 @@ img {
 In riferimento alla figura del [Problema 22](22.html), la prima frangia scura a destra della frangia centrale corrisponde al valore $k = 1/2$. Il testo fornisce il dato
 
 $$
-    \theta_{1/2} = 0.31^\circ
+    \theta = 0.31^\circ
 $$
 
 È possibile ricavare la formula risolutiva partendo dalla solita condizione di interferenza:
 
 $$
-\frac{d \sin \theta_k}{\lambda} = k \, \longrightarrow \, \frac{d}{\lambda} = \frac{k}{\sin \theta_k}
+k = \frac{d \sin \theta}{\lambda} \, \longrightarrow \, \frac{d}{\lambda} = \frac{k}{\sin \theta}
 $$
 
-Sostituendo $k = 1/2$, troviamo
+Sostituendo i valori numerici $k = 1/2$ e $\theta = 0.31^\circ$, troviamo
 
-\begin{align*}
-    \frac{d}{\lambda} &= \frac{1}{2 \sin \theta_{1/2}}\\
-                      &= \frac{1}{2 \cdot \sin (0.31^\circ)} = 92.4
-\end{align*}
+$$
+    \frac{d}{\lambda} = \frac{1}{2 \sin 0.31^\circ} = 92.4
+$$
 
 **N.B.** Essendo il rapporto di due lunghezze, il valore $d/\lambda$ è adimensionale.
