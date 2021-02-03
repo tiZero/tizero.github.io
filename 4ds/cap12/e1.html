@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<script>window.texme = { style: 'none' }</script>
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
+<link rel="stylesheet" href="https://latex.now.sh/style.css">
+<textarea>
+
+  Variazione sulla doppia fenditura
+  =================================
+
+  Premessa
+  --------
+  Analogamente a quanto visto per gli altoparlanti, supponiamo che, nel classico [esperimento della doppia fenditura](notes/2.pdf), le due **sorgenti di onde luminose** (cioè le fenditure) presentino un certo **sfasamento** $\phi$: ovvero, se $y_1$ e $y_2$ indicano le rispettive funzioni d'onda, abbiamo
+
+  $$ y_1 = A_1 \sin(\kappa x - \omega t + \phi) \qquad y_2 = A_2 \sin(\kappa x - \omega t) $$
+
+  Ricordiamo che:
+
+  * se $\phi = 0$ le due onde sono *in fase*: emettono creste o ventri nello stesso istante
+  * se $\phi = \pi \,\,\mathrm{rad}$ le due onde sono *in opposizione di fase*: quando una emette una cresta l'altra emette un ventre, e viceversa
+  * nei casi rimanenti le creste e i ventri di un'onda sono emessi *in anticipo* o *in ritardo* rispetto all'altra in base al valore di $\phi$
+
+  **N.B.** Nella descrizione classica dell'esperimento abbiamo sempre supposto che $\phi = 0$
+
+  ### Esercizio ###
+  Mostrare che il grafico dell'onda $y_2$ è traslato in avanti rispetto a quello dell'onda $y_1$ di una distanza pari a
+  $$ \Delta\ell_0 = \frac{\phi}{2\pi}\lambda $$
+
+
+  Domanda
+  -------
+  > *Come cambia la figura di interferenza formata dalle frange scure e luminose sullo schermo al variare di $\phi$?*
+
+  Risposta
+  --------
+  La condizione di interferenza nel caso di sorgenti in fase è la solita
+
+  $$ \frac{\Delta\ell}{\lambda} = k $$
+
+  In generale, oltre alla differenza di cammino $\Delta\ell = \ell_2 - \ell_1$ nella propagazione rettilinea, è necessario considerare anche il cammino extra $\Delta\ell_0$ dovuto allo sfasamento iniziale $\phi$:
+
+  \begin{align*}
+  \frac{\Delta\ell + \Delta\ell_0}{\lambda} &= k\\
+  \frac{\Delta\ell}{\lambda} + \frac{\phi}{2\pi} &= k
+  \end{align*}
+
+  Con l'*approssimazione per angoli piccoli*, abbiamo
+
+  * $\Delta\ell = d \sin \theta$
+  * $x = L \sin \theta$ (distanza lineare dal centro dello schermo)
+
+  Di conseguenza, possiamo scrivere l'ultima equazione nel modo seguente (esercizio)
+
+  $$ x = \underbrace{k\frac{L \lambda}{d}}_{x_0} - \frac{\phi}{2\pi}\frac{L\lambda}{d}$$
+
+  Notiamo che il primo termine $x_0$ è proprio la distanza lineare di un punto dal centro dello schermo nel caso in cui le due sorgenti siano in fase (come visto nell'esempio classico).
+
+  Conclusioni
+  -----------
+  Se $\phi$ indica lo sfasamento della luce emessa dalla seconda fenditura rispetto alla prima, allora, rispetto al caso delle sorgenti in fase, **l'intera figura di interferenza si sposta verso sinistra** di una distanza pari a
+
+  $$ \frac{\phi}{2\pi}\frac{L\lambda}{d} $$
+
+  In particolare:
+
+  * se $\phi = \pi \,\,\mathrm{rad}$ (sorgenti in opposizione di fase), allora le frange scure prendono il posto di quelle luminose, e viceversa
+  * se $\phi = 2\pi \,\,\mathrm{rad}$ (o multipli) la figura d'interferenza non cambia
+
+</textarea>
