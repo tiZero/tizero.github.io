@@ -5,34 +5,44 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Problema 22</title>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>window.texme = { style: 'none' }</script>
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
 <link rel="stylesheet" href="https://latex.now.sh/style.css">
 </head>
 
-<body>
-<h1 id="problema-22-p-119">Problema 22 (p. 119)</h1>
+<textarea>
+Problema 22 (p. 119)
+====================
 
-<p>In figura è rappresentato lo schema di corpo libero relativo al carrello, in cui l’asse \(x\) ha la stessa direzione della rampa:</p>
+In figura è rappresentato lo schema di corpo libero relativo al carrello, in cui l'asse $x$ ha la stessa direzione della rampa:
 
-<p><img src="../pics/0322.svg" alt="03-22" /></p>
+![03-22](../pics/0322.svg)
 
-<p>Le componenti delle tre forze lungo l’asse \(x\) sono</p>
+Le forze agenti sono
 
-\[R_x = 0 \qquad P_x = -mg \sin \theta \qquad F_x = F \cos \theta\]
++ il peso $\vec{P}$ del carrello
++ la reazione vincolare $\vec{R}$ della rampa
++ la forza orizzontale $\vec{F}$
 
-<p>e, di conseguenza, il valore della <strong>forza risultante</strong> lungo \(x\) risulta essere</p>
+Le componenti di ciascuna delle tre forze lungo l'asse $x$ sono
 
-\[R_x + P_x + F_x = -mg \sin \theta + F \cos \theta\]
+$$
+  R_x = 0 \qquad P_x = -mg \sin \theta \qquad F_x = F \cos \theta
+$$
 
-<p>A questo punto, scriviamo la <strong>seconda legge di Newton</strong> e ricaviamo il valore di \(F\):</p>
+Di conseguenza, il valore della **forza risultante** sul carrello lungo la rampa è dato da
 
-\[\begin{align*}
-    -mg \sin \theta + F \cos \theta &amp;= ma\\
-    &amp; \\
-    \longrightarrow \quad F &amp;= \frac{m(a + g \sin \theta)}{\cos \theta}
-  \end{align*}\]
+$$
+  R_x + P_x + F_x = -mg \sin \theta + F \cos \theta
+$$
 
-</body>
+Per concludere, scriviamo la **seconda legge di Newton** e da questa ricaviamo il valore di $F$:
+
+\begin{align*}
+  & -mg \sin \theta + F \cos \theta = ma\\
+  & \\
+  \longrightarrow \quad & F = \frac{m(a + g \sin \theta)}{\cos \theta}
+\end{align*}
+</textarea>
 
 </html>
