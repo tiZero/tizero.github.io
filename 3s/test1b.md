@@ -14,9 +14,8 @@ Esercizio 2
 
 Consideriamo la circonferenza di equazione $$x^2 + y^2 + 4y - 9 = 0$$ e il punto $$P=(-3,0)$$.
 
-**a)** Quante sono le rette tangenti alla circonferenza passanti per $$P$$?
-
-**b)** Scrivere l'equazione delle rette tangenti alla circonferenza passanti per $$P$$.
+* Quante sono le rette tangenti alla circonferenza passanti per $$P$$?
+* Scrivere l'equazione delle rette tangenti alla circonferenza passanti per $$P$$.
 
 Esercizio 3
 -----------
