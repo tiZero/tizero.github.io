@@ -6,6 +6,9 @@ date:   Pentamestre 2020/21
 
 ## Appunti delle lezioni
 
+* [Grafici III](u6-lec1.pdf)  
+  Simmetrie e traslazioni nel piano cartesiano
+
 * [Grafici II](u7-lec2.pdf)  
   Risoluzione grafica di equazioni e disequazioni irrazionali 
 
