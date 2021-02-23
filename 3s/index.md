@@ -17,6 +17,7 @@ date:   Pentamestre 2020/21
 
 ## Esercizi e problemi svolti
 
+* [Esercizio 97](ex/u6-97.html)
 * [Esercizio 363](ex/u7-363.html)
 * [Esercizio 110](ex/u7-110.html) *(Circonferenza)*
 * [Esercizio 109](ex/u7-109.html)
