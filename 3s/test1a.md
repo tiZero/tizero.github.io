@@ -77,7 +77,7 @@ $$
     mx - y + 4m = 0
 $$
 
-A questo punto basta calcolare la distanza $$d$$ della retta da centro $$C$$ e trovare per quali valori di $$m$$ si ha $$d = r$$.
+A questo punto basta calcolare la distanza $$d$$ della retta dal centro $$C$$ e trovare per quali valori di $$m$$ si ha $$d = r$$.
 
 $$
     d = \frac{\vert m \cdot (-2) - (-4) + 4m \vert}{\sqrt{m^2 + 1}} = \frac{\vert 2m + 4 \vert}{\sqrt{m^2 + 1}}
