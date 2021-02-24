@@ -67,7 +67,7 @@ Da qui ricaviamo immediatamente che il centro della circonferenza è il punto $$
 
 $$
     \overline{CP} = \sqrt{(x_C - x_P)^2 + (y_C - y_P)^2} = \sqrt{2^2 + 4^2} = \sqrt{20} = 2 \sqrt{5} > r
-$${:.scroll-overflow}
+$${:.scroll-wrapper}
 
 Concludiamo che il punto $$P$$ è esterno alla circonferenza e, di conseguenza, che le rette tangenti passanti per $$P$$ sono due.
 
@@ -79,7 +79,9 @@ $$
 
 A questo punto basta calcolare la distanza $$d$$ della retta da centro $$C$$ e trovare per quali valori di $$m$$ si ha $$d = r$$.
 
-$$d = \frac{\vert m \cdot (-2) - (-4) + 4m \vert}{\sqrt{m^2 + 1}} = \frac{\vert 2m + 4 \vert}{\sqrt{m^2 + 1}}$$
+$$
+    d = \frac{\vert m \cdot (-2) - (-4) + 4m \vert}{\sqrt{m^2 + 1}} = \frac{\vert 2m + 4 \vert}{\sqrt{m^2 + 1}}
+$$
 
 Risolviamo dunque l'equazione
 
@@ -121,7 +123,7 @@ Affinché la retta $$x - y - 3 = 0$$ sia tangente alla circonferenza è necessar
 
 $$
     d = \frac{\vert (-1) - 0 - 3 \vert}{\sqrt{1^2 + 1^2}} = \frac{4}{\sqrt{2}} = 2\sqrt{2}
-$${:.scroll-oveflow}
+$$
 
 Concludiamo che il raggio della circonferenza è $$r=2\sqrt{2}$$ e, di conseguenza, che l'equazione della circonferenza è
 
