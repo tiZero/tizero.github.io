@@ -28,5 +28,5 @@ date:   Pentamestre 2020/21
 
 ### Testo e soluzione delle verifiche
 
-* Test del 9 febbraio ([Testo](test1b.pdf))
-* Test del 5 febbraio ([Testo](test1a.pdf))
+* Terza verifica, [versione A](test1a.md)
+* Terza verifica, [versione B](test1b.pdf)
