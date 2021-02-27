@@ -46,7 +46,9 @@ Rispetto ad un asse $$x$$  diretto come in figura, i dati a nostra disposizione 
 
 * Il testo chiede di calcolare il valore di $$v$$, cioè la velocità del treno B rispetto a $$S$$, che possiamo dedurre dalla **trasformazione di Galileo** delle velocità:
 
-$$v' = v - V \, \longrightarrow v = V + v' = 72 - 5 = 62 \text{ m/s}$$
+  $$
+      v' = v - V \, \longrightarrow v = V + v' = 72 - 5 = 62 \text{ m/s}
+  $${:.scroll-wrapper}
 
 * Entrambi i treni sono sistemi di riferimento inerziali poiché viaggiano entrambi a velocità costante.
 

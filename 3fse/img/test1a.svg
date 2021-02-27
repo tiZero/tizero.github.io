@@ -8,9 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="750"
-   height="283.46457"
-   viewBox="0 0 198.43751 75"
+   width="600"
+   height="250"
+   viewBox="0 0 158.75001 66.145832"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -180,7 +180,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0670226"
-     inkscape:cx="176.55936"
+     inkscape:cx="197.76197"
      inkscape:cy="250.67342"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -207,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -218,7 +218,7 @@
      transform="translate(-46.487262,-64.770191)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM-4)"
-       d="m 178.37753,98.33195 7.14562,-4.660713"
+       d="m 157.33912,92.770956 7.14562,-4.660713"
        id="path845"
        sodipodi:nodetypes="cc" />
     <rect
@@ -226,32 +226,32 @@
        id="rect2312"
        width="23.503166"
        height="8.5094738"
-       x="120.72081"
-       y="89.680016" />
+       x="99.682388"
+       y="84.119026" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2314"
        width="12.766098"
        height="6.1076832"
-       x="105.8938"
-       y="-188.56366"
+       x="100.33281"
+       y="-167.52524"
        transform="rotate(90)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 97.301064,98.421652 81.076466,-0.08984"
+       d="m 76.262646,92.860658 81.076474,-0.08984"
        id="path2328"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 144.12663,93.671237 h 41.39652 v 12.215373"
+       d="m 123.08822,88.110243 h 41.39652 v 12.215377"
        id="path2350"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 178.73682,98.421652 V 125.5669"
+       d="M 157.69841,92.860658 V 120.00591"
        id="path2358" />
     <g
-       transform="matrix(0.605297,0,0,0.605297,129.00353,83.835747)"
+       transform="matrix(0.605297,0,0,0.605297,107.96512,78.274753)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -330,7 +330,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.605297,0,0,0.605297,191.02023,110.2671)"
+       transform="matrix(0.605297,0,0,0.605297,169.98182,104.70611)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"

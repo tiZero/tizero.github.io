@@ -8,9 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="750"
-   height="283.46457"
-   viewBox="0 0 198.43751 75"
+   width="600"
+   height="300"
+   viewBox="0 0 158.75001 79.374999"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -211,12 +211,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0670226"
-     inkscape:cx="341.54497"
+     inkscape:cx="233.38858"
      inkscape:cy="158.81707"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-global="true"
      inkscape:window-width="1920"
      inkscape:window-height="1042"
@@ -252,10 +252,10 @@
        id="rect223"
        width="16.343611"
        height="5.9173093"
-       x="98.423485"
-       y="94.301247" />
+       x="77.581161"
+       y="98.06176" />
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,104.23917,88.206147)"
+       transform="matrix(0.60529682,0,0,0.60529682,83.396849,91.966661)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -307,22 +307,22 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.361795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1146)"
-       d="m 114.77881,97.255755 h 21.67357"
+       d="M 93.936489,101.01627 H 115.61006"
        id="path259" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.386271;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1244"
        width="16.343611"
        height="5.9173093"
-       x="98.423485"
-       y="112.36256" />
+       x="77.581161"
+       y="116.12307" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.361795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1272)"
-       d="m 114.77881,115.31709 h 15.1715"
+       d="M 93.936489,119.0776 H 109.10799"
        id="path1268"
        sodipodi:nodetypes="cc" />
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,104.15857,106.36698)"
+       transform="matrix(0.60529682,0,0,0.60529682,83.316249,110.12749)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -373,7 +373,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,137.00942,88.654308)"
+       transform="matrix(0.60529682,0,0,0.60529682,116.1671,92.414822)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -444,7 +444,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,131.93864,108.91306)"
+       transform="matrix(0.60529682,0,0,0.60529682,111.09632,112.67357)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -519,10 +519,10 @@
        id="rect1901"
        width="16.343611"
        height="5.9173093"
-       x="172.83537"
-       y="94.301247" />
+       x="151.99306"
+       y="98.06176" />
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,178.65225,88.206147)"
+       transform="matrix(0.60529682,0,0,0.60529682,157.80993,91.966661)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -577,15 +577,15 @@
        id="rect1927"
        width="16.343611"
        height="5.9173093"
-       x="172.83537"
-       y="112.36256" />
+       x="151.99306"
+       y="116.12307" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.361795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2019)"
-       d="m 172.76502,115.40714 h -6.50208"
+       d="m 151.9227,119.16765 h -6.50208"
        id="path1929"
        sodipodi:nodetypes="cc" />
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,178.57165,106.36698)"
+       transform="matrix(0.60529682,0,0,0.60529682,157.72933,110.12749)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -636,7 +636,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,161.46602,108.61298)"
+       transform="matrix(0.60529682,0,0,0.60529682,140.6237,112.37349)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -736,15 +736,15 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.225268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.675806, 0.675806;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 150.59433,129.11668 -2e-5,-46.959425"
+       d="m 129.75201,132.87719 -2e-5,-46.959421"
        id="path2499"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.361226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2179)"
-       d="M 88.035619,129.11668 H 203.62801"
+       d="M 67.193298,132.87719 H 182.78569"
        id="path2507" />
     <g
-       transform="matrix(0.60529682,0,0,0.60529682,204.50704,121.68423)"
+       transform="matrix(0.60529682,0,0,0.60529682,183.66472,125.44474)"
        ns2:version="1.3.0"
        ns2:texconverter="pdflatex"
        ns2:pdfconverter="inkscape"
@@ -797,26 +797,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.0014px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200035"
-       x="110.7319"
-       y="78.398521"
+       x="89.88958"
+       y="82.159035"
        id="text3112"><tspan
          sodipodi:role="line"
          id="tspan3110"
-         x="110.7319"
-         y="78.398521"
+         x="89.88958"
+         y="82.159035"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Symbola;-inkscape-font-specification:Symbola;stroke-width:0.200035">in <tspan
    style="font-style:italic;stroke-width:0.200035"
    id="tspan3118">S</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.0014px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200035"
-       x="172.11465"
-       y="78.398521"
+       x="151.27234"
+       y="82.159035"
        id="text3124"><tspan
          sodipodi:role="line"
          id="tspan3122"
-         x="172.11465"
-         y="78.398521"
+         x="151.27234"
+         y="82.159035"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Symbola;-inkscape-font-specification:Symbola;stroke-width:0.200035">in <tspan
    style="font-style:italic;stroke-width:0.200035"
    id="tspan3120">S'</tspan></tspan></text>
