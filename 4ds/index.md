@@ -13,7 +13,7 @@ date:   Pentamestre 2020/21
   Principio di Fermat. Diffrazione della luce ed esperimento di Young
   
 * [Luce I](cap12-lec1.pdf)  
-  Quadro storico delle teorie corpuscolare e ondulatoria. Riflessione e riflessione della luce
+  Quadro storico delle teorie corpuscolare e ondulatoria. Riflessione e rifrazione della luce
 
 ## Esercizi e problemi svolti
 
