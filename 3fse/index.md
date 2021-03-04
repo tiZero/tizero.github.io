@@ -12,6 +12,7 @@ date:   Pentamestre 2020/21
 
 ## Esercizi e problemi svolti
 
+* [Problema 17](ex/cap04-17.html) (Sistemi in rotazione)
 * [Problema 26](ex/cap03-26.html)
 * [Problema 25](ex/cap03-25.pdf) (Blocchi collegati con una fune)
 * [Problema 23](ex/cap03-23.html)
