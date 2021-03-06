@@ -30,4 +30,4 @@ date:   Pentamestre 2020/21
 ### Testo e soluzione delle verifiche
 
 * Terza verifica, [versione A](test1a.md)
-* Terza verifica, [versione B](test1b.pdf)
+* Terza verifica, [versione B](test1b.md)
