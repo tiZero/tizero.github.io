@@ -28,6 +28,7 @@ date:   Pentamestre 2020/21
 
 ### Extra
 
+* Campo elettrico ([Simulazione](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html))
 * [Problem solving 2](ex/cap12-e3.html)
 * [Problem solving 1](ex/cap12-e2.html)
 * [Variazione sulla doppia fenditura](ex/cap12-e1.html)
