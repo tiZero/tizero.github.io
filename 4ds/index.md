@@ -17,6 +17,7 @@ date:   Pentamestre 2020/21
 
 ## Esercizi e problemi svolti
 
+* [Problema 35](ex/cap13-35.html)
 * [Problema 33](ex/cap13-33.html)
 * [Problema 37](ex/cap12-37.html) (*Luce*)
 * [Problema 34](ex/cap12-34.html)
