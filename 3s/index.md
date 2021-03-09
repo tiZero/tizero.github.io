@@ -6,6 +6,9 @@ date:   Pentamestre 2020/21
 
 ## Appunti delle lezioni
 
+* [Parabola](u8-lec1.pdf)  
+  La parabola e la sua equazione nel piano cartesiano
+
 * [Grafici IV](u6-lec2.pdf)  
   Trasformazione dei grafici delle funzioni
 
