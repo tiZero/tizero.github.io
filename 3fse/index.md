@@ -6,6 +6,9 @@ date:   Pentamestre 2020/21
 
 ## Appunti delle lezioni
 
+* [Energia I](cap05-lec1.pdf)  
+  Principio di conservazione dell'energia meccanica
+
 * Sistemi non inerziali II ([Appunti](cap04-lec2.pdf))
 * Sistemi non inerziali I ([Slide](cap04-lec1.pdf))
 * Sistemi di riferimento inerziali e trasformazioni di Galileo. Quantità di moto, teorema dell'impulso. Schema di corpo libero ([Appunti](cap03-lec1.pdf))
