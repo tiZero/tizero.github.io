@@ -6,6 +6,9 @@ date:   Pentamestre 2020/21
 
 ## Appunti delle lezioni
 
+* [Campo elettrico I](cap13-lec1.pdf)  
+  Definizione di campo elettrico $$\vec{E}$$. Campo generato da diverse configurazioni di cariche elettriche
+
 * [Luce III](cap12-lec3.pdf)  
   Riflessione e rifrazione della luce dal punto di vista ondulatorio. Interferenza di raggi riflessi da pellicole sottili
   
