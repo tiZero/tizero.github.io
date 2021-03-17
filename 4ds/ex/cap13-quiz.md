@@ -30,7 +30,7 @@ Concludiamo che
 $$
 \begin{aligned}
 \frac{F_e}{F_g} &= \frac{k}{G} \left( \frac{e}{m_e} \right)^2\\
-                &= \frac{8.99 \cdot 10^9}{6,\!670 \cdot 10^{-11}} \left( \frac{1,\!602 \cdot 10^{-19}}{9,\!108 \cdot 10^{-31}} \right)^2\\
+                &= \frac{8,\!99 \cdot 10^9}{6,\!670 \cdot 10^{-11}} \left( \frac{1,\!602 \cdot 10^{-19}}{9,\!108 \cdot 10^{-31}} \right)^2\\
                 &\approx 4,\!17 \cdot 10^{42}
 \end{aligned}
 $$
