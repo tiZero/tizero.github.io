@@ -17,7 +17,8 @@ date:   Pentamestre 2020/21
 
 ## Esercizi e problemi svolti
 
-* [Porblema 12](ex/cap05-12.html)
+* [Problema 52](ex/cap05-52.html)
+* [Problema 12](ex/cap05-12.html)
 * [Problema 10](ex/cap05-10.html)
 * [Problema 17](ex/cap04-17.html) *(Sistemi in rotazione)*
 * [Problema 26](ex/cap03-26.html)
