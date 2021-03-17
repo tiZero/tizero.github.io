@@ -31,6 +31,7 @@ date:   Pentamestre 2020/21
 
 ### Problemi extra
 
+* [Specchi parabolici](ex/u8-ext1.html)
 * [Simmetrie nel piano cartesiano](ex/u7-ext3.html)
 * [Problem solving 2](ex/u7-ext2.html)
 * [Problem solving 1](ex/u7-ext1.html)
