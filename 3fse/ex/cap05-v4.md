@@ -43,7 +43,7 @@ L_1 &= -F_1 \cdot \Delta s_1\\
 \end{aligned}
 $$
 
-Concludiamo che l'energia dello sciatore alla base del colle è $$E_1' = E_0 + L = 31912,\!4$$ J. A questo punto, ricordando che l'energia $$E_1'$$ è tutta cinetica, possiamo facilmente ricavare la velocità $$v_1'$$:
+Concludiamo che l'energia dello sciatore alla base del colle è $$E_1' = E_0 + L_1 = 31912,\!4$$ J. A questo punto, ricordando che l'energia $$E_1'$$ è tutta cinetica, possiamo facilmente ricavare la velocità $$v_1'$$:
 
 $$v_1' = \sqrt{\frac{2E_1'}{m}} = 28,\!25 \,\,\mathrm{m/s}$$
 
@@ -53,7 +53,7 @@ $$L_2 = -mg\mu \cdot \Delta s = -1787,\!8 \,\,\mathrm{J}$$
 
 Dopo aver percorso questo tratto, l'energia dello sciatore alla base della seconda collina diventa
 
-$$E_2' = E_1' + L = 30124,\!6 \,\,\mathrm{J}$$
+$$E_2' = E_1' + L_2 = 30124,\!6 \,\,\mathrm{J}$$
 
 Di conseguenza, la sua velocità è pari a
 
