@@ -42,6 +42,8 @@ date:   Pentamestre 2020/21
 
 ### Testo e soluzione delle verifiche
 
-* Verifica su *forze e campi elettrici* del 24 marzo, [testo e soluzione](test2q.pdf) dei quesiti aperti
+* Verifica su **forze e campi elettrici** del 24 marzo  
+  [Testo e soluzione](test2q.pdf) dei quesiti aperti
+  
 * Terza verifica, [versione A](test1a.pdf)
 * Terza verifica, [versione B](test1b.pdf)
