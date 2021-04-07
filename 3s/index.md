@@ -38,7 +38,7 @@ date:   Pentamestre 2020/21
 
 ### Testo e soluzione delle verifiche
 
-* Quarta verifica, [versione A](test2.html)
+* Quarta verifica, [versione A](test2a.html)
 
 * Terza verifica, [versione A](test1a.html)
 * Terza verifica, [versione B](test1b.html)
