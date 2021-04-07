@@ -89,13 +89,13 @@ Tracciamo i grafici delle due funzioni
 
 $$y_1 = \sqrt{3 - 2x - x^2} \qquad \text{e} \qquad y_2 = \vert x - 1 \vert$$
 
-* Poiché $$y_1 \geq 0$$, il grafico di $$y_1$$ si trova *non al di sotto* dell'asse $$x$$. Elevando al quadrato otteniamo l'equazione
+Poiché $$y_1 \geq 0$$, il grafico di $$y_1$$ si trova *non al di sotto* dell'asse $$x$$. Elevando al quadrato otteniamo l'equazione
 
-  $$x^2 + y^2 + 2x - 3 = 0 \, \longrightarrow \, (x + 1)^2 + y^2 = 4$$
-  
-  che rappresenta una circonferenza di centro $$(-1,0)$$ e raggio $$2$$. Il grafico di $$y_1$$ è dunque la parte superiore di tale circonferenza.
-  
-* La funzione $$y_2 = \vert x - 1 \vert$$ è ottenuta da $$y = \vert x \vert$$ mediante la trasformazione $$x \to x - 1$$. Per cui il grafico corrispondente è traslato verso destra di $$1$$.
+$$x^2 + y^2 + 2x - 3 = 0 \, \longrightarrow \, (x + 1)^2 + y^2 = 4$$
+
+che rappresenta una circonferenza di centro $$(-1,0)$$ e raggio $$2$$. Il grafico di $$y_1$$ è dunque la parte superiore di tale circonferenza.
+
+La funzione $$y_2 = \vert x - 1 \vert$$ è ottenuta da $$y = \vert x \vert$$ mediante la trasformazione $$x \to x - 1$$. Per cui il grafico corrispondente è traslato verso destra di $$1$$.
 
 ![grafico1-A](img/test2-2A.svg)
 
