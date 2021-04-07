@@ -1,6 +1,6 @@
 ---
 title:  Lavagne condivise
-author: 2CS
+author: 2CS – Scienze applicate
 date:   A.S. 2020/21
 ---
 
