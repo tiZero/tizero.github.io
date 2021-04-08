@@ -6,6 +6,8 @@ date:   Pentamestre 2020/21
 
 ## Appunti delle lezioni
 
+* [Breve riepilogo](cap14-lec0.html) su lavoro, forze conservative ed energia potenziale
+
 * [Campo elettrico I](cap13-lec1.pdf)  
   Definizione di campo elettrico $$\vec{E}$$. Campo generato da diverse configurazioni di cariche elettriche. Teorema di Gauss
 
