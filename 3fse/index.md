@@ -17,6 +17,7 @@ date:   Pentamestre 2020/21
 
 ## Esercizi e problemi svolti
 
+* [Problema 8](ex/cap06-08.html)
 * [Problema 4](ex/cap05-v4.html) *(Verifica del Capitolo 5)*
 * [Problema 52](ex/cap05-52.html)
 * [Problema 12](ex/cap05-12.html)
