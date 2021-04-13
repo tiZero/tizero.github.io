@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="it">
+<title>Lezione del 13 aprile</title>
+<script src="https://cdn.jsdelivr.net/npm/texme@0.9.0"></script>
+<textarea>
+# Esercizi
+
+* * *
+
+Risolviamo l'equazione $ 2x^2 + x - 3 = 0 $
+
+1. Calcoliamo il $ \Delta $
+
+   $$ \Delta = b^2 - 4ac = (1)^2 - 4(2)(-3) = 25 $$
+
+2. Poiché $ \Delta > 0 $, l'equazione ha due soluzioni.
+
+3. Calcoliamo le soluzioni
+
+   $$ x_{1,2} = \frac{-b \pm \sqrt\Delta}{2a} = \frac{-1 \pm 5}{4} = \left\langle\begin{array}{l}\,1\\\\\,-\frac32\end{array}\right. $$
+
+In conclusione, le soluzioni dell'equazione sono
+
+$$ x  = 1 \qquad \text{e} \qquad x = -\frac32 $$
+
+* * *
+
+Risolviamo l'equazione $ x^2 + x + 1 = 0 $
+
+Il discriminante è $$ \Delta = b^2 - 4ac = (1)^2 - 4(1)(1) = -3 $$
+
+Essendo $ \Delta < 0 $, l'equazione è **impossibile** (non ha soluzioni).
+
+* * *
+
+Risolviamo l'equazione $ x^2 - 9 = 0 $
+
+$$ x^2 = 9 \quad \to \quad x = \pm\sqrt9 = \pm 3$$
+
+* * *
+
+Risolviamo $ 3x^2 + 1 = 0 $
+
+$$ x^2 = -\frac13 \quad \to \quad \text{Impossibile} $$
+
+* * *
+
+Risolviamo l'equazione
+
+$$ x^2 + 2 = 2\sqrt2 \,x $$
+
+Portiamo l'equazione in *forma normale*
+
+$$ x^2 - 2\sqrt2 \, x + 2 = 0 $$
+
+Il discriminante è $ \Delta = b^2 - 4ac = (-2\sqrt2)^2 - 4(1)(2) = 8 - 8 = 0 $. Di conseguenza, l'equazione ha come *unica soluzione*
+
+$$ x = \frac{-b}{2a} = \frac{2\sqrt2}{2} = \sqrt2$$
+
+* Potevamo risolvere l'equazione diversamente?
+
+  \begin{align*}
+  x^2 - 2\sqrt2 \, x + 2 &= 0\\
+  (x - \sqrt2)^2 &=0\\
+  x - \sqrt2 &= 0\\
+  x &= \sqrt2
+  \end{align*}
+
+* * *
+
+# Dimostrazione della formula risolutiva
+
+\begin{align*}
+ax^2 + bx + c &= 0\\
+\frac{ax^2 + bx + c}{a} &= \frac{0}{a}\\
+x^2 + \frac{b}{a} x + \frac{c}{a}&= 0\\
+x^2 + \frac{b}{a} x + \left( \frac{b}{2a}\right)^2 + \frac{c}{a} &= \left( \frac{b}{2a}\right)^2\\
+\left( x + \frac{b}{2a} \right)^2+\frac{c}{a}&=\left( \frac{b}{2a}\right)^2\\
+\left( x + \frac{b}{2a} \right)^2 &= \frac{b^2}{4a^2} - \frac{c}{a}\\
+\left( x + \frac{b}{2a} \right)^2 &= \frac{b^2 - 4ac}{4a^2}\\
+\left( x + \frac{b}{2a} \right)^2 &= \frac{\Delta}{4a^2}
+\end{align*}
+
+* Se $ k=\Delta/4a^2 $ è negativo (cioè $ \Delta < 0 $), allora l'equazione è impossibile
+
+* Se $ k=\Delta/4a^2 $ è zero (cioè $ \Delta = 0 $), allora
+
+  $$ \left( x + \frac{b}{2a} \right)^2 = 0 \quad \to \quad x + \frac{b}{2a} = 0 \quad \to \quad x = -\frac{b}{2a}$$
+
+* Se $k=\Delta/4a^2$ è positivo (cioè $ \Delta > 0 $), allora
+
+\begin{align*}
+\left( x + \frac{b}{2a} \right)^2 &= \frac{\Delta}{4a^2}\\
+x + \frac{b}{2a} &= \pm\sqrt{\frac{\Delta}{4a^2}}\\
+x &= - \frac{b}{2a} \pm \frac{\sqrt\Delta}{2a}\\
+x &= \frac{-b \pm \sqrt\Delta}{2a}
+\end{align*}
+
+Fine della dimostrazione
+
+---
+
+
+## Formula "ridotta"
+
+La formula risolutiva generale è
+
+$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+Supponiamo che $ b = 2k $ (cioè $ k $ è la metà di $ b $).
+
+Sostituendo nella formula otteniamo la cosiddetta *formula ridotta* per le soluzioni dell'equazione:
+
+\begin{align*}
+x &= \frac{-2k \pm \sqrt{4k^2 - 4ac}}{2a}\\
+x &= \frac{-2k \pm 2 \sqrt{k^2 - ac}}{2a}\\
+x &= \frac{-k \pm \sqrt{k^2 - ac}}{a}
+\end{align*}
+</textarea>
