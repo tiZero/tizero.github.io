@@ -21,8 +21,8 @@ Di conseguenza, il momento d'inerzia dell'asta risulta
 
 $$
 \begin{aligned}
-  I &= \frac54 m\ell^2 = \frac54 \cdot 350 \cdot 10^{-3} \cdot 0{,}15^2\\
-    &= 9{,}84 \cdot 10^{-3} \text{ kg m}^2
+  I = \frac54 m\ell^2 &= \frac54 \cdot 350 \cdot 10^{-3} \cdot 0{,}15^2\\
+                      &= 9{,}84 \cdot 10^{-3} \text{ kg m}^2
 \end{aligned}
 $$
 
