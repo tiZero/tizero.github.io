@@ -34,7 +34,7 @@ $$r_A = r_C = \frac{\ell}{2} \qquad r_B = 0$$
 
 Il momento d'inerzia corrispondente risulta
 
-$$ I = \frac12 m\ell^2 = 3{,}94 \text{ kg m}^2$$
+$$ I = \frac12 m\ell^2 = 3{,}94 \cdot 10^{-3} \text{ kg m}^2$$
 
 ###### Punto c)
 
