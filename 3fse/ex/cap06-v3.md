@@ -1,6 +1,6 @@
 ---
-title:  Problema 4
-author: Verifica del capitolo 6
+title:  Problema 4 (p. 250)
+author: Calcolo del momento d'inerzia
 date:   26 aprile 2021
 ---
 Il momento d'inerzia dell'asta è dato da
