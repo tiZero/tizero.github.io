@@ -7,7 +7,7 @@ date: Pentamestre 2020/21
 ## Appunti delle lezioni
 
 - [Successioni](u3-lec1.pdf)  
-  Successioni numeriche, progressioni aritmetiche
+  Successioni numeriche, progressioni aritmetiche e geometriche. Problemi numerici
 
 - [Parabola](u8-lec1.pdf)  
   La parabola e la sua equazione nel piano cartesiano
