@@ -34,6 +34,7 @@ date: Pentamestre 2020/21
 
 ### Problemi extra
 
+- [Successione di Fibonacci](ex/u3-ext1.html)
 - [Specchi parabolici](ex/u8-ext1.html)
 - [Simmetrie nel piano cartesiano](ex/u7-ext3.html)
 - [Problem solving 2](ex/u7-ext2.html)
