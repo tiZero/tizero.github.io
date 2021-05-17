@@ -44,6 +44,7 @@ date: Pentamestre 2020/21
 ### Testo e soluzione delle verifiche
 
 - Ultima verifica, [versione A](test3a.pdf)
+- Ultima verifica, [versione B](test3b.pdf)
 - Verifica su **forze e campi elettrici** del 24 marzo  
   [Testo e soluzione](test2q.pdf) dei quesiti aperti
 - Terza verifica, [versione A](test1a.pdf)

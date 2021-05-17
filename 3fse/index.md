@@ -45,5 +45,6 @@ date: Pentamestre 2020/21
 ### Testo e soluzione delle verifiche
 
 - Quinta verifica, [versione A](test2a.pdf)
+- Quinta verifica, [versione B](test2b.pdf)
 - Terza verifica, [versione A](test1a.html)
 - Terza verifica, [versione B](test1b.html)
