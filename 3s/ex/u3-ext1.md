@@ -71,7 +71,7 @@ Sostituendo i valori noti otteniamo
 
 $$
   \phi^n \cdot \left(\frac{2}{3 + \sqrt5} + \frac{2}{1 + \sqrt5} - 1 \right) - \psi^n \cdot \left(\frac{2}{3 - \sqrt5} + \frac{2}{1 - \sqrt5} - 1 \right) = 0
-$${.:scroll-wrapper}
+$${:.scroll-wrapper}
 
 Risolvendo però le espressioni numeriche evinciamo ciò:
 
