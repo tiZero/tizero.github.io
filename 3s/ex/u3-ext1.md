@@ -43,7 +43,7 @@ Verificare che la formula
 
 ### Svolgimento (Flora)
 
-Verifichiamo la relazione $$F_{n-2} + F_{n-1} = F_n$$ sostituendo a $$F_n$$ l'espressione la sua espressione secondo il termine generale.
+Verifichiamo la validità della relazione $$F_{n-2} + F_{n-1} = F_n$$ sostituendo a $$F_n$$ la sua espressione secondo il termine generale.
 
 $$
   \frac{\phi^{n-2} - \psi^{n-2}}{\phi - \psi} + \frac{\phi^{n-1} - \psi^{n-1}}{\phi - \psi} = \frac{\phi^n - \psi^n}{\phi - \psi}
