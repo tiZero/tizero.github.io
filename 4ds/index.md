@@ -20,6 +20,7 @@ date: Pentamestre 2020/21
 
 ## Esercizi e problemi svolti
 
+- [Problema 51](ex/cap15-51.pdf)
 - [Problema 38](ex/cap13-38.html)
 - [Problema 35](ex/cap13-35.html)
 - [Problema 33](ex/cap13-33.html)
