@@ -67,11 +67,11 @@ $$m_{CP} = \frac{y_C - y_P}{x_C - x_P} = - \frac23$$
 
 Essendo perpendicolare alla retta $$CP$$, la retta tangente passante per $$P$$ ha coefficiente angolare
 
-$$m = -\frac{1}{m_{CP}} = \frac23$$
+$$m = -\frac{1}{m_{CP}} = \frac32$$
 
 In conclusione, l'equazione cercata è
 
-$$y = \frac23 (x + 3) \longrightarrow y = \frac23 x + 2$$
+$$y = \frac32 (x + 3) \longrightarrow y = \frac32 x + \frac92$$
 
 [Top](#testo)
 
